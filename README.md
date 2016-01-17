@@ -1,13 +1,14 @@
-# Coding+Robotics
+Coding+Robotics
+========
+
 Let's use GitHub to build test files for the Coding+Robotics Camp's Robotics Unit.
+----------
 
-We should focus on the Finch Robots and the different environments/languages it's compatible with.  Depending on the age group, we should then pick a corresponding language that's suited for them.
+* Finch Robot Environment or Scratch (Beginner Level)
 
-Finch Environment (beginners - young kids)
+* Scratch (Intermediate Level)
 
-Scratch (intermediate - teens )
+* Java (Advanced Level)
 
-Java (advanced - older teens)
-
-C++/Objective C (very advanced - returning teens?)
+* Objective C/C (Returning Advanced Students)
 
