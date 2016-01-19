@@ -1,4 +1,4 @@
-# This will organize the application of Java with the Finch Robot.
+This will organize the application of Java with the Finch Robot.
 -------
 Points of interest
 --------
