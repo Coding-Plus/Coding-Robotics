@@ -2,5 +2,6 @@ This will organize the Java unit and prepare a quick scope of Java so the studen
 -------
 Points of interest:
 * Teaching Fundamentals of Java (OOP, etc.)
+* Building files (good link: http://introcs.cs.princeton.edu/java/code/)
 * IDE for them to use and syntax (probably BlueJay)
 * Preparation of PowerPoint slides?
