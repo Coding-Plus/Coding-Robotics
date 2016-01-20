@@ -1,5 +1,5 @@
 /*
-Unit 1- Lesson 1
+Unit 1-Lesson 1
 Welcome to Java!
 Java is a powerful coding language and enables humans to talk with a machine.
 In this tutorial, we will go over the introductory HelloWorld Program.
