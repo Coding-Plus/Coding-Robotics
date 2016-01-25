@@ -1,3 +1,10 @@
+/*
+Unit 1-Lesson ?
+In this lesson, you will see and implement algorithms!  We might have to change up the Quadratic because some kids may not know the formula.
+Maybe area of square?
+Let's go!
+*/
+
 public class Quadratic
 { 
     public static void main(String[] args)
