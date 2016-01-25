@@ -1,0 +1,4 @@
+Unit 1 will be an introduction to Java Programming.
+Lesson 1: HelloWorld.java
+Lesson 2: HelloName.java
+Lesson 3: RectangleArea.java
